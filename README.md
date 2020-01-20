@@ -7,7 +7,7 @@
   + ```pip install -r requirements.txt```
 ## Usage
 ```shell
-ig-ul-sl.py -u username -p password -i /path/to/image.jpg -c 'Caption Here'
+ig-ul-sl.py -u username -p password -i /path/to/the/image.jpg -c 'Caption Here'
 ```
 ```
 Usage: ig-ul-sl.py [OPTIONS]
