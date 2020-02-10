@@ -3,7 +3,7 @@
 * Download [Google Chrome](https://google.com/chrome) and install
 + After run these commands in the Windows Command Prompt
   + ```git clone https://github.com/imnotyours/instagram-uploader-selenium``` 
-  + ```cd instagram-uploader-selenium```
+  + ```cd inst_a-py-upload```
   + ```pip install -r requirements.txt```
 ## Usage
 ```shell
