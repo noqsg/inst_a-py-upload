@@ -2,15 +2,15 @@
 ## Installation
 * Download [Google Chrome](https://google.com/chrome) and install
 + After run these commands in the Windows Command Prompt
-  + ```git clone https://github.com/imnotyours/instagram-uploader-selenium``` 
-  + ```cd inst_a-py-upload```
+  + ```git clone https://github.com/noqsg/instagram-uploader``` 
+  + ```cd instagram-uploader```
   + ```pip install -r requirements.txt```
 ## Usage
 ```shell
-ig-ul-sl.py -u username -p password -i /path/to/the/image.jpg -c 'Caption Here'
+upload-ig.py -u username -p password -i /path/to/the/image.jpg -c 'Caption Here'
 ```
 ```
-Usage: ig-ul-sl.py [OPTIONS]
+Usage: upload-ig.py [OPTIONS]
 
 Options:
   -u, --username TEXT    The username to your Instagram account.  [required]
